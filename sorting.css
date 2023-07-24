@@ -1,0 +1,53 @@
+body{
+    background-color: #181818;
+}
+
+h1{
+    color: #F2F2F2;
+    text-align: center;
+}
+
+button{
+    border-style: double;
+    font-size: 17px;
+    border-radius: px;
+    cursor: pointer;
+    background-color: #b293ff;
+    padding: 4px 6px 4px 6px;
+}
+
+button:hover{
+    background-color: #8758FF;
+}
+
+#newarr{
+    margin-right: 200px;
+}
+
+#bubble,#selection,#insertion,#merge,#quick,#sizer,#speed{
+    margin-right: 20px;
+}
+
+#bar{
+    color: red;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    flex-direction: row;
+    padding: 20px 30px 0px 10px;
+}
+  
+.baritem {
+    background: #ffecc1;
+    border: 1px solid #181818;
+    width: 0.75%;
+  }
+
+a{
+    text-decoration: none;
+    color: #64CCC5;
+}
+
+a:hover{
+    color: #64CCC5;
+}
